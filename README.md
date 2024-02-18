@@ -1,7 +1,8 @@
-* 目錄大綱
+# Contents
+{:.no_toc}
+
+* Will be replaced with the ToC, excluding the "Contents" header
 {:toc}
-
-
 
 
 # 基本原則
